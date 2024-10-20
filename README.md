@@ -11,11 +11,12 @@
 - **PHP**
 - **C#**
 - **JavaScript**
+- **TypeScript**
 - **Python**
 
 ### 🌱 Currently:
 - **Open to Work**
-- **Learning TypeScript Best Practices**
+- **Learning Crypto & Solidity**
 
 ### 📂 Public Projects:
 - [**my-temp.email**](https://my-temp.email) - Provides secure, anonymous, free, and disposable temporary email.
